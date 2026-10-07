@@ -2,14 +2,14 @@
 # Los videojuegos 
 Los videojuegos los son una forma de **entretenimiento**muy popular y también pueden servir para aprender.
 
-#Información
+# Información
 |Videojuego	| Género	       | Plataforma            |
 |-----------|---------------|-----------------------|
 |Minecraft  |	Supervivencia	| PC, Xbox, PlayStation|
 |Fortnite   |	Battle Royale	| PC, Xbox, PlayStation|
 |FIFA       |	Deportes	     | PC, Xbox, PlayStation |
 
-#Enlaces
+# Enlaces
 [visitar stream ](https://store.steampowered.com)
 [visitar PlayStation](https://www.playstation.com)
 
@@ -25,26 +25,26 @@ Los videojuegos los son una forma de **entretenimiento**muy popular y también p
 > "Los videojuegos son una forma de contar historias y crear mundos."
 ---
 
-#Ventajas
+# Ventajas
  -Mejoran la coordinación
   -Desarrollan la creatividad
   -Pueden ayudar a aprender
   -Permiten jugar con otras personas
 
-#Desventajas
+# Desventajas
  -Pueden crear dependencia
  -Pueden consumir mucho tiempo
  -Algunos juegos pueden ser caros
  -Pueden provocar sedentarismo
 
- #Cosas que quiero hacer
+ # Cosas que quiero hacer
  - [x] Probar nuevos videojuegos
  - [x] Jugar con amigos
  - [ ] Crear mi propio videojuego
 
   
   
-#Código
+# Código
 
 Un ejemplo sencillo de código en Java:
 ```
