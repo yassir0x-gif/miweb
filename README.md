@@ -46,7 +46,7 @@ Los videojuegos los son una forma de **entretenimiento**muy popular y también p
   
 # Código
 
-Un ejemplo sencillo de código en Java:
+Un ejemplo de código en Java:
 ```
 public class Juego {
     public static void main(String[] args) {
