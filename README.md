@@ -1,4 +1,4 @@
-## el mundo de los videojuegos
+## El mundo de los videojuegos
 # Los videojuegos 
 Los videojuegos los son una forma de **entretenimiento**muy popular y también pueden servir para aprender.
 
