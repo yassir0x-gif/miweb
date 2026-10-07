@@ -3,10 +3,11 @@
 Los videojuegos los son una forma de **entretenimiento**muy popular y también pueden servir para aprender.
 
 #Información
-|Videojuego	| Género	       | Plataforma
-|Minecraft  |	Supervivencia	 | PC, Xbox, PlayStation
-|Fortnite   |	Battle Royale	 | PC, Xbox, PlayStation
-|FIFA       |	Deportes	     | PC, Xbox, PlayStation
+|Videojuego	| Género	       | Plataforma            |
+|-----------|---------------|-----------------------|
+|Minecraft  |	Supervivencia	| PC, Xbox, PlayStation|
+|Fortnite   |	Battle Royale	| PC, Xbox, PlayStation|
+|FIFA       |	Deportes	     | PC, Xbox, PlayStation |
 
 #Enlaces
 [visitar stream ](https://store.steampowered.com)
@@ -15,8 +16,12 @@ Los videojuegos los son una forma de **entretenimiento**muy popular y también p
 ---
 
  Los videojuegos han evolucionado mucho durante los últimos años.
+ 
+---
+![minecraft](https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png) 
+![Fortnite](https://i.blogs.es/088846/fortnitepral/1366_2000.jpg)
 
- ***
+---
 > "Los videojuegos son una forma de contar historias y crear mundos."
 ---
 
